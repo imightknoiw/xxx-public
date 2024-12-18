@@ -1,4 +1,1 @@
-local HWIDs = {
-  ""
-}
-return HWIDs
+
